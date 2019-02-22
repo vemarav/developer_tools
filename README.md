@@ -8,3 +8,4 @@
 | 5. | [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) | Interact visually with your website |
 | 6. | [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot |
 | 7. | [2Dimenstions](https://www.2dimensions.com/) | Animation Tools for Apps, Games, and Web. |
+| 8. | [Valentina Studio](https://valentina-db.com/en/all-downloads) | Create, administer, query, diagram and explore MySQL, MariaDB, PostgreSQL, MS SQL Server, Valentina DB and SQLite. Now with Valentina Forms! |
