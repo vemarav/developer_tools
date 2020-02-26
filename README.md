@@ -9,3 +9,5 @@
 | 6. | [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot |
 | 7. | [2Dimenstions](https://www.2dimensions.com/) | Animation Tools for Apps, Games, and Web. |
 | 8. | [Valentina Studio](https://valentina-db.com/en/all-downloads) | Create, administer, query, diagram and explore MySQL, MariaDB, PostgreSQL, MS SQL Server, Valentina DB and SQLite. Now with Valentina Forms! |
+| 9. | [Zeplin](https://zeplin.io) | The better way to share, organize and collaborate on designs—built with developers in mind. |
+| 10. | [Abstract](https://abstract.com) | Bring git-inspired version control & collaboration to your design team. Centralize design decisions, feedback, and files. Integrates with Sketch & Adobe XD. |
