@@ -13,3 +13,4 @@
 | 10 | [Abstract](https://abstract.com) | Bring git-inspired version control & collaboration to your design team. Centralize design decisions, feedback, and files. Integrates with Sketch & Adobe XD. |
 | 11 | [LogoMaker from The Hoth](https://logomaker.thehoth.com) | The ultimate tool to create free logo |
 | 12 | [Framer X](https://framer.com) | Always interactive, lightning fast design |
+| 13 | [Milanote](https://milanote.com/) | Milanote is an easy-to-use tool to organize your ideas and projects into visual boards |
