@@ -20,3 +20,4 @@
 | 17 | [compressor.io](https://compressor.io) | Compress and optimize your images - Up to 90% file size reduction |
 | 18 | [elementor](https://elementor.com/) | The World's Leading WordPress Page Builder |
 | 19 | [Sizzy](https://sizzy.co/) | The browser for developers and designers |
+| 20 | [CSS Peeper](https://csspeeper.com) | Smart CSS viewer tailored for Designers |
