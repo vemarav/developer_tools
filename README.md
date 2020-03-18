@@ -21,3 +21,4 @@
 | 18 | [elementor](https://elementor.com/) | The World's Leading WordPress Page Builder |
 | 19 | [Sizzy](https://sizzy.co/) | The browser for developers and designers |
 | 20 | [CSS Peeper](https://csspeeper.com) | Smart CSS viewer tailored for Designers |
+| 21 | [Font Squirrel](https://www.fontsquirrel.com/matcherator) |  Upload an image with type and we’ll identify the fonts that match |
