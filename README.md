@@ -22,3 +22,4 @@
 | 19 | [Sizzy](https://sizzy.co/) | The browser for developers and designers |
 | 20 | [CSS Peeper](https://csspeeper.com) | Smart CSS viewer tailored for Designers |
 | 21 | [Font Squirrel](https://www.fontsquirrel.com/matcherator) |  Upload an image with type and we’ll identify the fonts that match |
+| 22 | [Bitrise](https://bitrise.io) | Mobile-first features that help you build, test and deploy faster and more efficiently |
